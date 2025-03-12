@@ -1,0 +1,8 @@
+[
+  {
+    "server": "13.51.177.104",
+    "server_port": 443,
+    "password": "eGvCrB7CjsOSXsOtw5PDvhkCw6HCkMKqH0BZPXsUwrEVcSfCpsKNw5JIZcO6w6A=",
+    "method": "chacha20-ietf-poly1305"
+  }
+]
