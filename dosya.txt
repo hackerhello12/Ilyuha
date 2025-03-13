@@ -1,8 +1,1 @@
-[
-  {
-    "server": "13.51.177.104",
-    "server_port": 443,
-    "password": "eGvCrB7CjsOSXsOtw5PDvhkCw6HCkMKqH0BZPXsUwrEVcSfCpsKNw5JIZcO6w6A=",
-    "method": "chacha20-ietf-poly1305"
-  }
-]
+vless://04798792-990c-4ae9-b068-47b9f56c4558@194.60.134.78:2083?path=%2F&security=tls&fragment=1-3%2C1-3%2Ctlshello&encryption=none&host=ragnarvm.mukkioffcdn.ru&type=ws&sni=ragnarvm.mukkioffcdn.ru#ilyuha
